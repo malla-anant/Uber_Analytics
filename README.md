@@ -1,5 +1,7 @@
 # Uber Trip Analysis Dashboard
 
+[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-%23000000.svg?style=for-the-badge&logo=Codeforces&logoColor=gold)](https://app.powerbi.com/groups/me/reports/25a8ce6e-1ee7-4b7f-8239-0210585aa170/12020a54bb7b6dc4120b?experience=power-bi)
+
 ## 📌 Project Overview
 This project is a **comprehensive Uber trip analysis** developed using **Power BI**. It provides **insightful visualizations** and **data-driven analytics** to understand key trends in Uber trip data, including:
 - Trip duration analysis
